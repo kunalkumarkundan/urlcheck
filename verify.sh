@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "inside the script"
+echo "inside the script1"
 fileName="policy_exception_list.txt"
 apiName="proc-case1"
 echo "$apiName"
